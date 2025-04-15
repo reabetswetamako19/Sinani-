@@ -1,2 +1,1 @@
-The .scss (Sass) files are only available in the pro version.
-You can buy it from: https://bootstrapmade.com/selecao-bootstrap-template/
+It is a working progress and i am still addidng unto it 
